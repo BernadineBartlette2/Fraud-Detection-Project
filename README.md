@@ -39,11 +39,12 @@ fraud-detection-project/
 ├── fraud_detection_analysis.ipynb    # Complete end-to-end analysis
 ├── data/
 │   ├── generated_transactions.csv    # Synthetic transaction dataset
-│   └── data_dictionary.md           # Data schema documentation
 └── visualizations/
-    ├── model_performance.png         # Model comparison charts
-    ├── business_impact.png           # ROI and savings analysis
-    └── feature_importance.png        # Feature importance analysis
+    ├── model_performance_comparison.png    # Model comparison charts
+    ├── business_impact_dashboard.png       # ROI and savings analysis
+    ├── feature_importance_analysis.png     # Feature importance analysis
+    ├── fraud_patterns_discovery.png        # Fraud pattern insights
+    └── implementation_timeline.png         # Project timeline
 ```
 
 ## Quick Start
