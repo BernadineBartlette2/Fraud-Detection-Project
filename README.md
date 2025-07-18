@@ -50,12 +50,12 @@ fraud-detection-project/
 ## Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/bernadinebarrtlette2/fraud-detection-project.git
+git clone https://github.com/bernadinebartlette2/fraud-detection-project.git
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Open the main analysis notebook
+# Open main analysis notebook
 jupyter notebook fraud_detection_analysis.ipynb
 ```
 ## Analysis Workflow
