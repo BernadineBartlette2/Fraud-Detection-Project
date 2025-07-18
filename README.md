@@ -1,1 +1,1 @@
-# Superstore
+Delete README.md
